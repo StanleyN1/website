@@ -3,7 +3,7 @@ main:
   - title: "Home" 
     url: /
   - title: "Research"
-    url: /publications/
+    url: https://stanleynicholson.com/publications
   - title: "Besides Math"
     url: /personal/
   - title: "CV"
