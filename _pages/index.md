@@ -6,36 +6,25 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/bren096.jpg" width="380px" alt="Brendan Keith" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
+<img src="/assets/images/stanley_big.jpeg" width="380px" alt="Stanley Nicholson" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 <p style="text-align: justify">
-I am an Assistant Professor in the Division of Applied Mathematics at Brown University.
-I work on numerical methods for partial differential equations (PDEs), scientific machine learning, and PDE-constrained optimization.
+I am first year PhD student in the <a href="https://appliedmath.brown.edu/">Division of Applied Mathematics</a>  at Brown University supported by the <a href="https://www.nsfgrfp.org/">NSF GRFP</a>.
+I'm broadly interested in applying mathematical and physical methods to understanding complex biological systems.
 </p>
 
-<!-- <span style="color:red">**Now Hiring:**</span>
-*I am seeking to hire a number of <a href="https://www.mathjobs.org/jobs/list/20345">postdocs</a> to join my group this academic Fall.* -->
-
-<span style="color:red">**Research Highlight:**</span>
-*See <a href="https://www.llnl.gov/news/llnl-led-team-uses-machine-learning-derive-black-hole-motion-gravitational-waves">this press release</a> about my recent work on machine learning and black holes!*
+<!-- <span style="color:red">**Research:**</span> -->
 
 <p style="text-align: justify">
-<b> Short Bio: </b> Before coming to Brown, I was a postdoctoral researcher at the <a href="https://computing.llnl.gov/casc">Center for Applied Scientific Computing</a> at Lawrence Livermore National Laboratory.
-<!-- where I am leading a three-year research project on PDE-constrained stochastic optimization methods for risk-averse engineering design. -->
-Before that, I was a postdoc at the <a href="https://icerm.brown.edu/">Institute for Computational and Experimental Research in Mathematics</a>.
-Before that, I was a postdoc at the Chair of Numerical Analysis at the Technical University of Munich, where I was supervised by <a href="http://www.professoren.tum.de/en/wohlmuth-barbara/">Barbara Wohlmuth</a>.
-Before that, I was a Ph.D. student at the <a href="https://www.oden.utexas.edu/">Oden Institute for Computational Engineering & Sciences</a>, where I was supervised by <a href="https://users.oden.utexas.edu/~leszek/">Leszek Demkowicz</a>.
+<b> Short Bio: </b>I hail from the Cheese state of Wisconsin and studied at the <a href="iit.edu">Illinois Institute of Technology</a> in Chicago doing Applied Mathematics, Biology, and Computer Science. A common thread throughout my work is the **interplay between structure and dynamics** in biological, probabilistic, and mechanical contexts. See [Research](/research/) for some of my projects on
+
+- coherence and spectral analysis of molecular dynamics simulations <a href="https://pubs.acs.org/doi/10.1021/acsomega.3c00181">paper here</a> in *ACS Omega*
+- a new logistic regression method for pharmacokinetics <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c00107">paper here</a> in *ACS Medicinal Chemistry*
+- machine learning of stochastic dynamics
+- pedestrian bridge instabilities induced by crowds
+
+Check out this <a href="https://www.iit.edu/news/using-math-conduit-passion-research">article</a> about me (back when I had long hair) and my views on research and entrepreneurial opportunities at Illinois Tech.
 </p>
 
-
-## Current Research Funding
-**DOE SC Early Career Research Program&nbsp;&nbsp;2024&ndash;2028**&nbsp;&nbsp; REASON-3D: Randomized, Entropic, Adaptive, and Scalable Optimization for Non-Intrusive Data-Driven Design
-\
-**OVPR Seed Award (Brown Internal)&nbsp;&nbsp;2023**&nbsp;&nbsp; Data-Driven High-Order Accurate Fail-Safe Neural Topology Optimization for Plastic Deformation and Fracture
-\
-**LLNL LDRD&nbsp;&nbsp;2022&ndash;2024**&nbsp;&nbsp; Adaptive Sampling for Risk-Averse Design and Optimization
-<!-- (PI, *$450,000/year*) -->
-
-
-### Other notes:
-- I'm an active [MFEM](https://mfem.org/) developer. Check out our (growing) list of examples codes and miniapps [here](https://mfem.org/examples/).
-- This website has been tidied up a little bit. If you are interested in my old finite element work (2015-2020), short summaries can be found [here](/research/).
+## News
+- January 3-6, 2024: I will be attending <a href="https://jointmathematicsmeetings.org/jmm">JMM 2024</a>
+- December 11-15, 2023: I will be attending ICERM's <a href="https://icerm.brown.edu/topical_workshops/tw-23-ctsco/">Computational Tools for Single-Cell Omics</a>
