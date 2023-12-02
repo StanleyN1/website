@@ -6,35 +6,6 @@ permalink: /personal/
 author_profile: true
 ---
 
-<figure style="width: 245px" class="align-right">
-  <img src="/assets/images/Portugal.jpg" alt="">
-  <figcaption style="text-align: center"> Portugal, 2020.</figcaption>
-</figure>
-
-<br>
-<br>
-<br>
-<br>
-When I am not working, I enjoy listening to punk music and being active; lifting weights at the gym, riding my bike, or going for a hike in one of the nearby National Parks.
-<br>
-<br>
-
-<figure style="width: 225px" class="align-left">
-  <img src="/assets/images/Aruba.jpg" alt="">
-  <figcaption style="text-align: center"> Aruba, 2021.</figcaption>
-</figure>
-
-<br>
-<br>
-<br>
-<br>
-I have been vegan for about 13 years, so I'm always keen to try out new recipes or to find the best vegan restaurants in my vicinity.
-<br>
-<br>
-<br>
-<br>
-
-
 <figure style="width: 225px" class="align-right">
   <img src="/assets/images/HalfMoonBay.jpg" alt="">
   <figcaption style="text-align: center"> Half Moon Bay, 2021.</figcaption>
