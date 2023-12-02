@@ -1,4 +1,4 @@
-# Brendan Keith's website
+# Stanley's website
 
 This is intended to be my personal webpage. 
 Please feel free to [browse the website](https://brendankeith.github.io/)!
