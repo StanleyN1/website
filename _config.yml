@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Stanley Nicholson"
-  avatar           : "/assets/images/profile_square_new.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/stanley_big.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Mathematical and Computational Biology, Scientific Computing, and Modelling"
   location         : "Providence, Rhode Island"
   email            : "stanley_nicholson@brown.edu"
