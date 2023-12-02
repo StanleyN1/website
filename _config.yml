@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "contrast", "dark", "d
 
 # Site Settings
 locale                   : "en"
-title                    : "Brendan Keith"
+title                    : "Stanley Nicholson"
 title_separator          : "-"
-name                     : "Brendan Keith"
-description              : "Brendan Keith's personal website"
+name                     : "Stanley Nicholson"
+description              : "Stanley Nicholson's personal website"
 url                      : "https://stanleyn1.github.io" # should not end with /
 baseurl                  : "website" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brendan Keith"
+  name             : "Stanley Nicholson"
   avatar           : "/assets/images/profile_square_new.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computational Science, Numerical Analysis, Optimization, & Scientific Machine Learning"
+  bio              : "Mathematical and Computational Biology, Scientific Computing, and Modelling"
   location         : "Providence, Rhode Island"
-  email            : "brendan_keith@brown.edu"
+  email            : "stanley_nicholson@brown.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,13 +98,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "brendankeith" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "stanley-nicholson" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "Stanley_N1"
   vine             :
   weibo            :
   xing             :
