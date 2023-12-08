@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <figure style="width: 225px" class="align-right">
-  <img src="/assets/images/stanley_uganda_2023.jpg" alt="">
+  <img src="/assets/images/stanley_uganda_2023.jpeg" alt="">
   <figcaption style="text-align: center">Ziwa Rhino Sanctuary, Buruli, Uganda, 2023. Behind me in the background are white rhinos!</figcaption>
 </figure>
 
