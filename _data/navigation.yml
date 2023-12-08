@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Home" 
-    url: /
+    url: https://www.stanleynicholson.com/
   - title: "Research"
-    url: https://stanleynicholson.com/publications
+    url: https://www.stanleynicholson.com/publications/
   - title: "Besides Math"
-    url: /personal/
+    url: https://www.stanleynicholson.com/personal/
   - title: "CV"
     url: /CV/
