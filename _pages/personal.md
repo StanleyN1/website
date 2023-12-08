@@ -8,7 +8,7 @@ author_profile: true
 
 <figure style="width: 225px" class="align-right">
   <img src="/assets/images/stanley_uganda_2023.jpg" alt="">
-  <figcaption style="text-align: center">Ziwa Rhino Sanctuary, Buruli, Uganda, 2023.</figcaption>
+  <figcaption style="text-align: center">Ziwa Rhino Sanctuary, Buruli, Uganda, 2023. Behind me in the background are white rhinos!</figcaption>
 </figure>
 
 <br>
@@ -16,4 +16,4 @@ author_profile: true
 <br>
 <br>
 
-I love travelling and experiencing different cultures! Whether its going hiking in the jungle in Uganda (pictured here) or sipping esspresso in Italy, the world has so much to offer.
+I love travelling and experiencing different cultures! Whether its going hiking in the jungle in Uganda (pictured here) or sipping esspresso in Italy, the world, its nature, and people are beautiful.
