@@ -15,7 +15,7 @@ I'm broadly interested in applying mathematical and physical methods to understa
 <!-- <span style="color:red">**Research:**</span> -->
 
 <p style="text-align: justify">
-<b> Short Bio: </b>I hail from the Cheese state of Wisconsin and studied at the <a href="iit.edu">Illinois Institute of Technology</a> in Chicago doing Applied Mathematics, Biology, and Computer Science. A common thread throughout my work is the <b>interplay between structure and dynamics</b> in biological, probabilistic, and mechanical contexts. See <a href="https://www.stanleynicholson.com/research/">Research</a> for some of my projects on</p>
+<b> Short Bio: </b>I hail from the Cheese 🧀 state of Wisconsin and studied at the <a href="iit.edu">Illinois Institute of Technology</a> in Chicago doing Applied Mathematics, Biology, and Computer Science. A common thread throughout my work is the <b>interplay between structure and dynamics</b> in biological, probabilistic, and mechanical contexts. See <a href="https://www.stanleynicholson.com/research/">Research</a> for some of my projects on</p>
 
 - coherence and spectral analysis of molecular dynamics simulations <a href="https://pubs.acs.org/doi/10.1021/acsomega.3c00181">paper here</a> in *ACS Omega*
 - a new logistic regression method for pharmacokinetics <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c00107">paper here</a> in *ACS Medicinal Chemistry*
