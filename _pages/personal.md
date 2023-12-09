@@ -1,12 +1,12 @@
 ---
-title: "What even is there besides math?"
+title: "Personal Activities"
 layout: single
 sitemap: true
 permalink: /personal/
 author_profile: true
 ---
 
-<figure style="width: 350px" class="align-right">
+<figure style="width: 500px" class="align-center">
   <img src="/assets/images/stanley_uganda_2023.jpeg" alt="">
   <figcaption style="text-align: center">Ziwa Rhino Sanctuary, Buruli, Uganda, 2023. Behind me in the background are white rhinos!</figcaption>
 </figure>
