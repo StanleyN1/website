@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "Home" 
     url: https://www.stanleynicholson.com/
@@ -7,4 +7,4 @@ main:
   - title: "Besides Math"
     url: https://www.stanleynicholson.com/personal/
   - title: "CV"
-    url: /CV/
+    url: https://www.stanleynicholson.com/cv/
