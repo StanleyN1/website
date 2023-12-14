@@ -19,6 +19,7 @@ Additional links to my preprints can be found on [Google Scholar](https://schola
 | <img src="/assets/images/logistic_control.jpg" width="200" alt="" align="center" style="margin-bottom:10px;margin-top:0px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;" /> | **Inclusion of Control Data in Fits to Concentration–Response Curves Improves Estimates of Half-Maximal Concentrations** <br> _Van Ngoc Thuy La, **Stanley Nicholson**, Amna Haneef, Lulu Kang, and David D. L. Minh_ <br> ACS Journal of Medicinal Chemistry (2023) [[doi](https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c00107)]  |
 
 ## Projects
+| <img src="/assets/images/logistic_control.jpg" width="200" alt="" align="center" style="margin-bottom:10px;margin-top:0px;margin-left:auto;margin-right:auto;padding-left:auto;padding-right:auto;" /> | **Linear Systems Analysis of Molecular Dynamics** <br> **Stanley Nicholson** <br> Masters Thesis |
 
 
 

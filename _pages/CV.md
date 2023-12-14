@@ -7,7 +7,8 @@ author_profile: true
 permalink: /CV/
 ---
 
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2FStanleyN1%2Fwebsite%2Fblob%2Fgh-pages%2Fassets%2Fdocuments%2FCV.pdf&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+<iframe src="https://docs.google.com/gview?url=https://github.com/StanleyN1/website/raw/gh-pages/assets/documents/CV.pdf&embedded=true" 
+style="width:600px; height:500px;" frameborder="0"></iframe>
 
 <!-- 
 <object data="/assets/documents/cv.pdf" type="application/pdf" width="700px" height="700px">
