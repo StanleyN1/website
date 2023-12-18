@@ -1,13 +1,16 @@
 ---
-title: ""
+title: "CV"
 # title: "Curriculum vitae"
-layout: archive
+layout: single
 sitemap: true
 author_profile: true
 permalink: /CV/
 ---
 
-<iframe src="https://docs.google.com/gview?url=https://github.com/StanleyN1/website/raw/gh-pages/assets/documents/CV.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+Here is my CV. Updated December 2023.
+
+<iframe src="https://docs.google.com/gview?url=https://github.com/StanleyN1/website/raw/gh-pages/assets/documents/stanleyn_cv_2023.pdf
+.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
 
 <!-- 
 <object data="/assets/documents/cv.pdf" type="application/pdf" width="700px" height="700px">
