@@ -4,7 +4,7 @@ title: "CV"
 layout: single
 sitemap: true
 author_profile: true
-permalink: https://docs.google.com/gview?url=https://github.com/StanleyN1/website/raw/gh-pages/assets/documents/stanleyn_cv_2023.pdf
+permalink: /CV/
 ---
 
 Here is my CV. Updated December 2023.
