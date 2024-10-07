@@ -23,5 +23,7 @@ I'm broadly interested in applying mathematical and physical methods and modelin
 - pedestrian bridge instabilities induced by crowds
 
 ## News
+- August 12-15, 2024: I attended the <a href="https://mlschool.princeton.edu/">Princeton Summer School on Machine Learning Theory</a>
+- August 5-9, 2024: I attended the <a href="https://iaifi.org/summer-workshop">AIFI 2024 Summer School</a> on the intersection of physics and AI
 - January 3-6, 2024: I attended <a href="https://jointmathematicsmeetings.org/jmm">JMM 2024</a>
 - December 11-15, 2023: I attended ICERM's <a href="https://icerm.brown.edu/topical_workshops/tw-23-ctsco/">Computational Tools for Single-Cell Omics</a>
