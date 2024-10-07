@@ -7,7 +7,7 @@ Please feel free to [browse the website](https://brendankeith.github.io/)!
 
 ## Credits
 
-Federico Fuentes greatly assisted me in creating this website and I owe him much gratitude for it. I literally copied [his webpage](https://federicofuentes.github.io/) and then replaced his personal information with mine.
+I copied [Brendan Keith's](https://brendankeith.github.io/) website.
 
 Additional credits to the original creator of the website template [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) and to the creator of [Academicons](http://jpswalsh.github.io/academicons/). Thanks!
 
