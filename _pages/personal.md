@@ -14,4 +14,4 @@ author_profile: true
 <br>
 <br>
 
-I love travelling and experiencing different cultures! Whether its going hiking in the jungle in Uganda (pictured here) or sipping esspresso in Italy, the world, its nature, and people are beautiful.
+I love travelling and experiencing different cultures! Whether its going hiking in the jungle in Uganda (pictured here) or sipping espresso in Italy, the world, its nature, and people are beautiful.
