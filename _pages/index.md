@@ -22,8 +22,8 @@ I've also been a summer research intern and visiting scholar at the <a href="htt
 - how intracellular pocket conformations determine signaling efficacy through the μ opioid receptor <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.4c01437">paper here</a> in *Journal of Chemical Information and Modeling*
 - coherence and spectral analysis of molecular dynamics simulations <a href="https://pubs.acs.org/doi/10.1021/acsomega.3c00181">paper here</a> in *ACS Omega*
 - a new logistic regression method for pharmacokinetics <a href="https://pubs.acs.org/doi/10.1021/acs.jmedchem.3c00107">paper here</a> in *ACS Medicinal Chemistry*
-- machine learning of stochastic dynamics
-- pedestrian bridge instabilities induced by crowds (model of coupled oscillators)
+
+Stay tuned for some work on cell differentiation and embryogenesis.
 
 ## News
 - July 2026: Our paper <a href="https://quantum-journal.org/papers/q-2026-07-01-2151/">Learning thermodynamic master equations for open quantum systems</a> was published in *Quantum*
