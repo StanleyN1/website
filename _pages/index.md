@@ -9,8 +9,9 @@ author_profile: true
 <img src="/assets/images/stanley_big.jpeg" width="380px" alt="Stanley Nicholson" align="right" style="display:block;margin-bottom:25px;margin-left:auto;margin-right:auto;padding-left: 25px;padding-right: 25px;" z-index="1" />
 <p style="text-align: justify">
 I am a Ph.D. candidate in the <a href="https://appliedmath.brown.edu/">Division of Applied Mathematics</a> at Brown University and an <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellow</a>.
+My advisor is <a href="https://bjornsandstede.com/">Björn Sandstede</a>.
 I'm broadly interested in applying mathematical, physical, and statistical methods to model and understand complex biological systems. In particular, I model cell differentiation and cell fate decision-making with dynamical systems.
-I've also been a summer research intern and visiting scholar at the <a href="https://www.simonsfoundation.org/flatiron/">Flatiron Institute</a>, working on fruit fly embryogenesis. I strive for and deeply believe in interdisiplinary biology which requires a diverse toolkit and expertise.
+I've also been a summer research intern and visiting scholar at the <a href="https://www.simonsfoundation.org/flatiron/">Flatiron Institute</a>, working on fruit fly embryogenesis with <a href="https://shvartsmanlab.com/">Stanislav Shvartsman</a>. I strive for and deeply believe in interdisiplinary biology which requires a diverse toolkit and expertise.
 </p>
 
 <!-- <span style="color:red">**Research:**</span> -->
